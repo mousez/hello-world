@@ -1,1 +1,3 @@
 # hello-world
+Hi I'm sam, 
+I like java , JS...
